@@ -5,4 +5,4 @@ Hackathons and any related data are found in the `/examples/` folder, and assign
 
 This course was adapted from Kyle Bradbury's course at Duke university.  The link to the course website is below:
 
-[https://kylebradbury.github.io/ids705/](https://kylebradbury.github.io/ids705/)
+[https://kylebradbury.github.io/ids705/](https://kylebradbury.github.io/ids705_sp2022/)
